@@ -1,0 +1,11 @@
+.title{
+    font-size: 34px;
+    color:teal;
+}
+.container{
+    height: 340px;
+    background-color: blanchedalmond;
+    border-radius: 25px;
+    border: 3px black solid;
+    text-align: center;
+}
