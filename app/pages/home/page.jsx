@@ -8,7 +8,7 @@ export const HomePage = () => {
             This is HomePage
         </h1>
         <div className={homestyle.container}>
-            <h1>Test 3</h1>
+            <h1>Test 3 test</h1>
         </div>
     </div>
   )
